@@ -4,7 +4,7 @@ First of all, install all the dependencies with ```npm install```
 
 ## Creating a dev-server:
 
-Just run ```npm start```
+Just run ```npm start```, then open a tab in your browser with the following url: "http://localhost:4444"
 
 ## Building the App
 
